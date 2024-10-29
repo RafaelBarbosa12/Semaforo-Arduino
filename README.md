@@ -1,34 +1,27 @@
 # Semaforo-Arduino
 
-Felipe Zilo:
+### Felipe Zilo:
 
-**até 3 pontos (Contempla/Contempla parcialmente/Não contempla) - Montagem física 
-realizada com as cores corretas, boa disposição dos fios e uso adequado de resistores 
-para proteção:** 3 pontos
-- **Até 3 pontos (Contempla/Contempla parcialmente/Não contempla) - Temporização 
-adequada conforme tempos medidos com auxílio de algum instrumento externo (timer 
-no celular por exemplo):** 3 pontos
-- **Até 3 pontos (Contempla/Contempla parcialmente/Não contempla) - O código 
-implementa corretamente as fases do semáforo (vermelho, amarelo, verde) e as 
-transições entre elas seguem a ordem correta. Além disso, o código tem boa estrutura, 
-nomes representativos de variáveis e uso de comentários explicativos:** 3 pontos
-**ir além:** 1 pontos
+| Critério                                                                                                 | Contempla (Pontos) | Contempla Parcialmente (Pontos) | Não Contempla (Pontos) | Observações do Avaliador |
+|---------------------------------------------------------------------------------------------------------|--------------------|----------------------------------|--------------------------|---------------------------|
+| Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores                | Até 3              | Até 1,5                            | 0                        |         3                  |
+| Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo                  | Até 3              | Até 1,5                          | 0                        |                  3         |
+| Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | Até 3              | Até 1,5                          | 0                        |        3                   |
+| Extra: Implmeentou um componente de liga/desliga no semáforo e/ou usou ponteiros no código | Até 1              |  Até 0,5                         | 0                        |                1           |
+|  |                                                             |  | |**Pontuação Total** 10|
 
-  Nota 10
 
 
   Davi Basã:
 
-**até 3 pontos (Contempla/Contempla parcialmente/Não contempla) - Montagem física 
-realizada com as cores corretas, boa disposição dos fios e uso adequado de resistores 
-para proteção:** 3 pontos
-- **Até 3 pontos (Contempla/Contempla parcialmente/Não contempla) - Temporização 
-adequada conforme tempos medidos com auxílio de algum instrumento externo (timer 
-no celular por exemplo):** 3 pontos
-- **Até 3 pontos (Contempla/Contempla parcialmente/Não contempla) - O código 
-implementa corretamente as fases do semáforo (vermelho, amarelo, verde) e as 
-transições entre elas seguem a ordem correta. Além disso, o código tem boa estrutura, 
-nomes representativos de variáveis e uso de comentários explicativos:** 3 pontos
-**ir além:** 1 pontos
+### Davi Basã:
 
-  Nota 10
+| Critério                                                                                                 | Contempla (Pontos) | Contempla Parcialmente (Pontos) | Não Contempla (Pontos) | Observações do Avaliador |
+|---------------------------------------------------------------------------------------------------------|--------------------|----------------------------------|--------------------------|---------------------------|
+| Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores                | Até 3              | Até 1,5                            | 0                        |         3                  |
+| Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo                  | Até 3              | Até 1,5                          | 0                        |                  3         |
+| Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | Até 3              | Até 1,5                          | 0                        |        3                   |
+| Extra: Implmeentou um componente de liga/desliga no semáforo e/ou usou ponteiros no código | Até 1              |  Até 0,5                         | 0                        |                1           |
+|  |                                                             |  | |**Pontuação Total** 10|
+
+
